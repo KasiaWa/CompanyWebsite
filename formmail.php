@@ -15,7 +15,7 @@
  // you can specify which email you want your contact form to be emailed to here
 
   $toemail = "katarzyna.wickowska@outlook.com";
-  $subject = "from PaulDesignerforHire.com";
+  $subject = "from https://kasiawa.github.io/CompanyWebsite/index.html";
 
   $headers = "MIME-Version: 1.0\n"
             ."From: \"".$name."\" <".$email.">\n"
