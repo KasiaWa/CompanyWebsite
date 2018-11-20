@@ -713,7 +713,6 @@ label {
 	margin-left: 5px;
 }
 .center-block {
-	max-height: auto;
 	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,0.81) 37.31%,rgba(130,106,106,0.64) 100%);
 	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,0.81) 37.31%,rgba(130,106,106,0.64) 100%);
 	background-image: -o-linear-gradient(270deg,rgba(255,255,255,0.81) 37.31%,rgba(130,106,106,0.64) 100%);

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<META HTTP-EQUIV="refresh" content="0;URL=thankyou.html">
+<META HTTP-EQUIV="refresh" content="0;URL=thank_you.html">
 <title>Email Form</title>
 </head>
 
@@ -15,7 +15,7 @@
  // you can specify which email you want your contact form to be emailed to here
 
   $toemail = "katarzyna.wickowska@outlook.com";
-  $subject = "from https://kasiawa.github.io/CompanyWebsite/index.html";
+  $subject = "from Rene Hair Studio";
 
   $headers = "MIME-Version: 1.0\n"
             ."From: \"".$name."\" <".$email.">\n"
